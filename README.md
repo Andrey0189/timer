@@ -2,6 +2,8 @@
 
 A terminal timer, stopwatch, and pomodoro tool written in Python with no third-party packages.
 
+![Timer screenshot](screenshot.png)
+
 - Uses Python standard library modules only (`sys`, `time`, `termios`, `select`, `signal`).
 - Displays 5-row ASCII digits centered horizontally and vertically by default in interactive mode.
 - Offers a pipeline and script mode (`-t`) with no formatting, no fullscreen, and no ANSI escapes.
